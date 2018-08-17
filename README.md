@@ -1,5 +1,8 @@
 # Abhidhamma
 
+<link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
+
+
 ## අභිධර්ම කෙටි සටහන් 
 at /doc
 
