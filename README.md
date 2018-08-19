@@ -1,16 +1,18 @@
 # Abhidhamma
 
 <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet">
+Study of Abhidhamma, written in Sinhalease.
+
+
+> The Abhidhamma Pitaka (Pali; English: Basket of Higher Doctrine) is the last of the three pitakas (Pali for "baskets") constituting the Pali Canon, the scriptures of Theravāda Buddhism.The Abhidhamma Pitaka is a detailed scholastic analysis and summary of the Buddha's teachings in the Suttas. Here the suttas are reworked into a schematized system of general principles that might be called 'Buddhist Psychology'. In the Abhidhamma the generally dispersed teachings and principles of the suttas are organized into a coherent science of Buddhist doctrine.
+The other two collections are the Sutta Pitaka and the Vinaya Pitaka. (https://en.wikipedia.org/wiki/Abhidhamma_Pitaka)
+
+
 
 
 ## අභිධර්ම කෙටි සටහන් 
 at /doc
 
-### පුජ්‍ය තිත්තගල්ලේ ආනන්දසිරි හිමි
-
-- [1 පාඩම](/docs/01.md)
-- [6 පාඩම](/docs/06.md)
-- [7 පාඩම](/docs/07.md)
 
 ### සටහන් - අභිධර්මයේ මුලික කරුණු 
 
